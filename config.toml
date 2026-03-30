@@ -1,6 +1,6 @@
-baseURL = "https://ncherel.github.io"
+baseURL = "https://zberenger.github.io"
 languageCode = "en-us"
-title = "Nicolas Cherel"
+title = "Zoé Berenger"
 theme = "researcher"
 
 disableKinds = ["taxonomy", "term"]
@@ -18,8 +18,8 @@ enableRobotsTXT = true
           inline = [['\(', '\)']]
 
 [params]
-  author = "Nicolas Cherel"
-  description = "Personal website of Nicolas Cherel"
+  author = "Zoé Berenger"
+  description = "Personal website of Zoé Berenger"
   math = true
 
 [params.style]  # appearance options (can be omitted)

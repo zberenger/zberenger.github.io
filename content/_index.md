@@ -1,5 +1,5 @@
 +++
-title = "Nicolas Cherel"
+title = "Zoé Berenger"
 +++
 
 <style>
@@ -10,69 +10,45 @@ title = "Nicolas Cherel"
 
 ## About Me
 
-I'm working as a research engineer at Disney in Zurich.
+I am currently looking for a job in 
 
-I completed my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My PhD was about [video inpainting](https://infusion.telecom-paris.fr) (removing objects in videos) and I am more generally interested in image and video editing, especially ill-posed inverse problems using generative models.
+I defended my PhD last December at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Florence Tupin, Loïc Denis (LabHC), and Laurent Ferro-Famil (CESBIO, ISAE-SUPAERO). My PhD was about [SAR tomography and deep learning for forest monitoring](https://theses.hal.science/tel-04573417) and my research interests are more generally computer science and data analysis applied to environmental challenges or .
 
-Before that, I worked at [Gleamer](http://www.gleamer.ai) on bone fracture detection in x-ray images.
-I graduated from Télécom Paris, and obtained the "Mathématiques, Vision, Apprentissage" (MVA) Master's degree from ENS Paris-Saclay. 
+Before that, I worked in the NGO [Mana](https://github.com/mana-vox/mana-vox) on identifying incidents committed by companies on forests from social networks with machine-learning based models.
+I graduated from Télécom Paris, and obtained the Master of Computing degree from the National University of Singapore (NUS).
 
-Email: [firstname].[lastname]@outlook.com  
-[GitHub](https://github.com/ncherel)
-[Resume](resume.pdf)
-
-
-## News
-
-- 05/25 - Joining Disney in Zurich (again) as a Research Engineer
-- 04/25 - Presentation at ISIR (Sorbonne Université) of Infusion [[Slides]](https://drive.google.com/file/d/1qZamm1gMp56ieyXttTAwtra0o613O8qP/view?usp=sharing)
-- 02/25 - Our paper Infusion was accepted at Eurographics. See you in London [[Slides]](https://drive.google.com/file/d/1AL2df0_zZBRDSeWbInTCs4zqeh4QlrpG/view?usp=drive_link) [[Videos]](https://drive.google.com/drive/folders/1tTosIlghD43JSyyDd4q3B-bgILlm276e?usp=drive_link)
-- 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
-- 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
-- 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://drive.google.com/file/d/1HDnG0df29buU3FCYMIVjF6MtXt5sBWpX/view?usp=sharing)
-- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://drive.google.com/file/d/1di4O7ur4_y9q5sm3XVQg2JP1PnjGgusa/view?usp=sharing)
-- 02/24 - Manucript submitted, PhD defense in March
-- 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
-
-Note for presentations: videos are embedded in PDF and play in [Okular](https://okular.kde.org). Contact me if you have issues.
-
-## [Last posts](posts)
-
-- [Should you compress your image dataset? No.](posts/compression)
-
+Email: [lastname].[firstname]@gmail.com  
+[GitHub](https://github.com/zberenger)
+[Resume](RESUME_ZOEBERENGER.pdf)
 
 ## Publications
 
-<div style="display: flow-root">
-{{% figure class="float-left" src="video_inpainting.jpg" width="90" height="85" %}}
-**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Eurographics*)  
-<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr) [[Code]](https://github.com/ncherel/infusion)
-</div>
+**Self-supervised TomoSAR Equivariant Imaging approach over forested areas** - (*In preparation*)  
+<ins>Z. Berenger</ins>, L. Denis, F. Tupin and L. Ferro-Famil
 
-<div style="display: flow-root">
-{{% figure class="float-left"  src="inpainting.jpg" width="90" height="82" %}}
-**Diffusion-based image inpainting with internal learning** - 2024 (*EUSIPCO*)  
-<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Preprint]](https://arxiv.org/abs/2406.04206) [[Code]](https://github.com/ncherel/inpaint-diff-mat)
-</div>
+**Une approche pour la tomographie SAR des zones forestières par apprentissage profond supervisé** - 2023 (*GRETSI*)  
+<ins>Z. Berenger</ins>, L. Denis, F. Tupin and L. Ferro-Famil  
+[[Paper]](https://gretsi.fr/data/colloque/pdf/2023_berenger1219.pdf)
+[[Preprint]](https://telecom-paris.hal.science/hal-04152895/document)
 
-<div style="display: flow-root">
-{{% figure class="float-left" src="psal.jpg" width="90" height="81" %}}
-**Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
-<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002461) [[Preprint]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
-</div>
+**Applying Deep Learning to P-Band SAR Tomographic Imaging in Preparation for the Future Biomass Mission** - 2023 (*IGARSS*)  
+<ins>Z. Berenger</ins>, L. Denis, F. Tupin and L. Ferro-Famil  
+[[Paper]](https://ieeexplore.ieee.org/document/10282400)
 
-<div style="display: flow-root">
-{{% figure class="float-left" src="psin.jpg" width="90" height="57" %}}
-**A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
-<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Project]](https://psin.telecom-paris.fr) [[Preprint]](https://hal.science/hal-03822204/) [[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
-</div>
+**A Deep-Learning Approach for SAR Tomographic Imaging of Forested Areas** - 2023 (*GRSL*)  
+<ins>Z. Berenger</ins>, L. Denis, F. Tupin, L. Ferro-Famil and Y. Huang  
+[[Paper]](https://ieeexplore.ieee.org/document/10175623)
+[[Preprint]](https://arxiv.org/abs/2301.08605)
+[[Code]](https://gitlab.telecom-paris.fr/ring/tomosar-nn)
 
-**Assessment of an AI aid in detection of adult appendicular skeletal fractures by emergency physicians and radiologists: a multicenter cross-sectional diagnostic study** - 2021 (*Radiology*)  
-L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</ins>, Z. Zhang, N. Nitche, E. Lacave, A. Pourchot, A. Felter, L. Lassalle, N.-E. Regnard, A. Feydy  
-[[Paper]](https://pubs.rsna.org/doi/full/10.1148/radiol.2021203886)
+## Teaching
 
+Practical work supervision:
+- Variational and Bayesian methods and discrete optimization (Télécom Paris - IMA203, Sorbonne University - TADI)
+- Coherent imaging, source separation, remote sensing (Télécom Paris - IMA207)
+- Image Processing (Télécom Paris - [Athens Program](https://athensnetwork.eu/index.html) TP01)
 
+Project supervision:
+- Remote sensing data: from sensor to large-scale geospatial data exploitation (ENS Paris-Saclay - MVA)
+- Action workshop: Social and ecological transition (Télécom Paris - TSE201)
+- Image Processing (Télécom Paris - [Athens Program](https://athensnetwork.eu/index.html) TP01)
