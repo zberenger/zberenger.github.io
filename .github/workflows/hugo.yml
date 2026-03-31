@@ -54,9 +54,14 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          # Use steps.pages.outputs.page_url if available, fallback to user site URL
+          BASEURL="${{ steps.pages.outputs.page_url }}"
+          if [ -z "$BASEURL" ]; then
+            BASEURL="https://zberenger.github.io/"
+          fi
           hugo \
             --minify \
-            --baseURL "https://zberenger.github.io/"
+            --baseURL "$BASEURL"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

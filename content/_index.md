@@ -12,7 +12,7 @@ title = "Zoé Berenger"
 
 I will soon be starting a new job in Zürich. Details to follow.
 
-I defended my doctoral thesis in December 2025 at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Florence Tupin, Loïc Denis (LabHC), and Laurent Ferro-Famil (CESBIO, ISAE-SUPAERO). My thesis focused on [SAR tomography and deep learning for forest monitoring](https://www.telecom-paris.fr/agenda/phd-defense-zoe-berenger-deep-learning-sar-tomography-forest-structures), and my research interests more broadly involve computer science and data analysis applied to current environmental challenges and issues.
+I defended my PhD in December 2025 at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Florence Tupin, Loïc Denis (LabHC), and Laurent Ferro-Famil (CESBIO, ISAE-SUPAERO). My thesis focused on [SAR tomography and deep learning for forest monitoring](https://www.telecom-paris.fr/agenda/phd-defense-zoe-berenger-deep-learning-sar-tomography-forest-structures), and my research interests more broadly involve computer science and data analysis applied to current environmental challenges and issues.
 
 Prior to this, I worked at the NGO [Mana](https://github.com/mana-vox/mana-vox) on identifying incidents committed by companies in forests using social media, with the help of machine learning models.
 I am a graduate of Télécom Paris and hold a Master of Computing degree from the National University of Singapore (NUS).
