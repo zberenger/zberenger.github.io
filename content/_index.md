@@ -10,7 +10,7 @@ title = "Zoé Berenger"
 
 ## About Me
 
-I will soon be starting a new job in Zürich. Details to follow.
+I will soon be starting a new job in Zürich. More details soon.
 
 I defended my PhD in December 2025 at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Florence Tupin, Loïc Denis (LabHC), and Laurent Ferro-Famil (CESBIO, ISAE-SUPAERO). My thesis focused on [SAR tomography and deep learning for forest monitoring](https://www.telecom-paris.fr/agenda/phd-defense-zoe-berenger-deep-learning-sar-tomography-forest-structures), and my research interests more broadly involve computer science and data analysis applied to current environmental challenges and issues.
 
